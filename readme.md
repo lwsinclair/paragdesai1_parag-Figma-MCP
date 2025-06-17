@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-paragdesai1-parag-figma-mcp-badge.png)](https://mseep.ai/app/mcp-mirror-paragdesai1-parag-figma-mcp)
+
 # Cursor Talk to Figma MCP
 
 This project implements a Model Context Protocol (MCP) integration between Cursor AI and Figma, allowing Cursor to communicate with Figma for reading designs and modifying them programmatically.
